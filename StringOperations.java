@@ -1,5 +1,5 @@
 //Jasmine Baclig
-//AP Computer Science AP
+//AP Computer Science A Period 3
 //August 28, 2020
 
 public class StringOperations {
